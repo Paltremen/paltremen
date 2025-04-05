@@ -1,5 +1,7 @@
-## Hi there 👋
+## Sup
 
+- Learning python and adjacent stuff from Python Crash Course by Eric Matthes
+- Trying to get into AI and machine learning, mostly building agents with LangChain
 <!--
 **Paltremen/paltremen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
